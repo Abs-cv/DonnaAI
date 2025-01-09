@@ -12,5 +12,5 @@ A modular Python framework for multi-agent collaboration using LangChain and Lan
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multi-agent-collaboration.git
+   git clone https://github.com/Abs-cv/multi-agent-collaboration.git
    cd multi-agent-collaboration
